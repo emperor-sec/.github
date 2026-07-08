@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/emperor.svg" width="100%" heigh="auto" alt="EMPEROR SECURITY RESEARCH" />
+<img src="profile/public/emperor.svg" width="100%" heigh="auto" alt="EMPEROR SECURITY RESEARCH" />
 
 </div>
 

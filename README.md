@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="public/emperor.svg" width="100%" heigh="auto" alt="EMPEROR SECURITY RESEARCH" />
+
+</div>
+
 # Emperror Security Research
 
 **Emperror Security Research** is an independent security research organization focused on advancing the field of offensive and defensive cybersecurity. We develop tools, conduct vulnerability research, and build software solutions for red team operations and blue team defense — with a commitment to responsible disclosure and ethical security practices.
@@ -46,9 +52,11 @@ We welcome contributions from the security community. If you are interested in c
 
 For research inquiries, responsible disclosure reports, or collaboration proposals:
 
-**Email:** anonymous.matrixtm26.sec@gmail.com
+**Contact Email:** [Send Mail](mailto:anonymous.matrixtm26.sec@gmail.com)
 
-**GitHub:** [github.com/emperror-sec](https://github.com/emperror-sec)
+**GitHub:** [Open](https://github.com/emperror-sec)
+
+**Telegram Channel:** [Join](https://t.me/c/3935883824/1)
 
 ---
 

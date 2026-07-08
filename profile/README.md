@@ -46,9 +46,11 @@ We welcome contributions from the security community. If you are interested in c
 
 For research inquiries, responsible disclosure reports, or collaboration proposals:
 
-**Email:** anonymous.matrixtm26.sec@gmail.com
+**Contact Email:** [Send Mail](mailto:anonymous.matrixtm26.sec@gmail.com)
 
-**GitHub:** [github.com/emperror-sec](https://github.com/emperror-sec)
+**GitHub:** [Open](https://github.com/emperror-sec)
+
+**Telegram Channel:** [Join](https://t.me/c/3935883824/1)
 
 ---
 

@@ -1,8 +1,20 @@
-# Emperror Security Research
+<!---
+<div align=center>
+    <a href="https://t.me/c/3935883824/1">
+        <img src="https://raw.githubusercontent.com/emperor-sec/.github/main/profile/public/emperor.svg" align=center style="border-radius: 20px">
+    </a>
+</div>
+--->
 
-**Emperror Security Research** is an independent security research organization focused on advancing the field of offensive and defensive cybersecurity. We develop tools, conduct vulnerability research, and build software solutions for red team operations and blue team defense — with a commitment to responsible disclosure and ethical security practices.
+<div align=center>
+  <h1><b>EMPEROR SECURITY RESEARCH</b></h1>
+</div>
 
----
+<div align=center>
+  <h4><i>Emperor Security Research is an independent security research organization focused on advancing the field of offensive and defensive cybersecurity. We develop tools, conduct vulnerability research, and build software solutions for red team operations and blue team defense — with a commitment to responsible disclosure and ethical security practices.</i></h4>
+</div>
+
+<hr>
 
 ## Focus Areas
 
@@ -15,18 +27,7 @@ Development of purpose-built tools for penetration testing, adversarial simulati
 **Defensive Security Tooling (Blue Team)**
 Engineering of detection, monitoring, and incident response tools aimed at strengthening organizational defenses. We build software that empowers defenders to detect, analyze, and respond to threats efficiently.
 
----
-
-## Repository Structure
-
-| Category    | Description                                                               |
-| ----------- | ------------------------------------------------------------------------- |
-| `research/` | Proof-of-concept exploits, vulnerability write-ups, and technical reports |
-| `redteam/`  | Offensive tools for penetration testing and adversarial simulation        |
-| `blueteam/` | Defensive tools for detection, monitoring, and incident response          |
-| `lab/`      | Experimental projects and work-in-progress research                       |
-
----
+<hr>
 
 ## Principles
 
@@ -34,24 +35,23 @@ Engineering of detection, monitoring, and incident response tools aimed at stren
 - Vulnerability findings are disclosed through responsible disclosure processes prior to public release.
 - We do not condone or support illegal activity. Tools published here are intended for use in controlled environments, authorized engagements, or educational purposes.
 
----
+<hr>
 
 ## Contributing
 
 We welcome contributions from the security community. If you are interested in contributing research, code, or improvements to any of our projects, please open an issue or submit a pull request. All contributions must adhere to ethical use guidelines.
 
----
+<hr>
 
 ## Contact
 
 For research inquiries, responsible disclosure reports, or collaboration proposals:
 
-**Contact Email:** [Send Mail](mailto:anonymous.matrixtm26.sec@gmail.com)
+[Send Mail](mailto:emperor.security.org@gmail.com) &bull;
+[GitHub](https://github.com/emperror-sec) &bull;
+[Telegram](https://t.me/c/3935883824/1)
 
-**GitHub:** [Open](https://github.com/emperror-sec)
-
-**Telegram Channel:** [Join](https://t.me/c/3935883824/1)
-
----
-
-_Emperror Security Research — Advancing security through knowledge, research, and responsible tooling._
+<div align=center>
+    <hr>
+    <b><i>Emperor Security Research &middot; Advancing security through knowledge, research, and responsible tooling.</i></b>
+</div>
